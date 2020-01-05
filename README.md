@@ -1,24 +1,11 @@
-# README
+To Do
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overview
+To Do Application is a single page application that uses JavaScript to add content to the webpage. The content are things that the user adds and can cross out when accomplished.
 
-Things you may want to cover:
+![todo2](https://user-images.githubusercontent.com/52677504/71787662-63193e80-2fe0-11ea-8519-0cc946564757.PNG)
+User can add different tasks that need to be done by entering them in the form section.
 
-* Ruby version
+![todo1](https://user-images.githubusercontent.com/52677504/71787660-5dbbf400-2fe0-11ea-9339-73d378b2e081.PNG)
+User can cross out any task when accomplished. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
